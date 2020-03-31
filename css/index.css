@@ -1,0 +1,33 @@
+#container{
+	width: 600px;
+	margin-left: auto;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+}
+body{
+	background: lightgrey
+}
+header{
+	background-color: #00004C;
+	padding: 40px;
+}
+h2{
+	background-color: yellow;
+	font-size: 50px;
+}
+p{
+	font-size: 30px
+}
+li{
+	font-size: 30px
+}
+.column{
+	float: left;
+	width: 48%;
+	padding: 5px;
+}
+.row{
+	clear: both;
+	display: table;
+}
